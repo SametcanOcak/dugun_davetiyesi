@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    min-height: 100vh;
+    background: url(images/bg.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Cabin', sans-serif;
+}
+
+.yazi{
+    text-align: center;
+    margin-top: 240px;
+}
+
+.aile{
+    text-align: center;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+
+.mesafe{
+    margin-left: 720px;
+}
+
+.adres{
+    margin-top: 100px;
+}
+
+.paragraf{
+    margin-top: 30px;
+}
